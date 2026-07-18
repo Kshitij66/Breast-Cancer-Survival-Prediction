@@ -97,7 +97,7 @@ pip install -r requirements.txt
 Run the application
 
 ```bash
-streamlit run app/app.py
+https://breast-cancer-survival-prediction-iqq8svecutblu6gg9ducbn.streamlit.app/
 ```
 
 ---
